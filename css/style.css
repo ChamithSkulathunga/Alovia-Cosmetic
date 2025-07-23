@@ -130,6 +130,10 @@ img.animated.pulse {
         margin-right: 0;
         padding: 10px 0;
     }
+
+    #logoImg{
+        height: 65px;
+    }
 }
 
 @media (min-width: 992px) {
@@ -149,6 +153,8 @@ img.animated.pulse {
         transition: .5s;
         opacity: 1;
     }
+
+    
 }
 
 
